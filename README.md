@@ -17,7 +17,15 @@ An interactive HTML implementation of Density Functional Theory (DFT) modeling w
 - Clean documentation structure
 - Expandable/collapsible sections
 
-## Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/batio3-dft-guide.git
+## Key Components
+-Workflow Overview	Interactive diagram of DFT workflow
+-Code Examples	Python snippets for ASE/Abipy calculations
+-Results Table	PBE vs HSE06 comparison data
+-Navigation	Quick-access sidebar menu
+-Prerequisites
+-Modern web browser (Chrome/Firefox/Safari)
+
+##Limitations
+-Static content (requires refresh for updates)
+-No server-side computation (presentation only)
+-For actual DFT calculations, use with:Quantum ESPRESSO,VASP,ABINIT
